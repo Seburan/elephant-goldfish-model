@@ -11,6 +11,7 @@ text.
 | Antigravity CLI | `agy plugin install https://github.com/google/elephant-goldfish-model` |
 | Antigravity App | Run `/plugin` or see [installation instructions](#antigravity-app-and-antigravity-for-ides) |
 | Antigravity for IDEs | Run `/plugin` or see [installation instructions](#antigravity-app-and-antigravity-for-ides) |
+| Antigravity IDE (standalone) | Not supported; see [installation instructions](#antigravity-app-and-antigravity-for-ides) |
 | Claude Code | `claude plugin marketplace add google/elephant-goldfish-model && claude plugin install egm@egm` |
 | Claude Cowork | Install from claude.ai/plugins or the Cowork plugin panel via marketplace `google/elephant-goldfish-model` |
 | Codex | `codex plugin marketplace add google/elephant-goldfish-model && codex plugin add egm@egm` |
