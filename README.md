@@ -29,7 +29,7 @@ Choose your coding agent. Install the complete plugin so its skills can read the
 agy plugin install https://github.com/google/elephant-goldfish-model
 ```
 
-For the **Antigravity App** and **Antigravity for IDEs** (VS Code, JetBrains, etc.), run `/plugin` or see the [installation instructions](docs/harnesses.md#antigravity-app-and-antigravity-for-ides).
+For the **Antigravity App** and **Antigravity for IDEs** (Visual Studio Code extension), run `/plugin` or see the [installation instructions](docs/harnesses.md#antigravity-app-and-antigravity-for-ides).
 
 ### Claude Code
 
